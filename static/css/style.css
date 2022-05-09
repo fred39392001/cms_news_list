@@ -38,3 +38,32 @@
   -o-transform: translate(-50%, 0);
   transform: translate(-50%, 0);
 }
+
+.mt-minus-5 {
+  margin-top: -5rem;
+}
+
+.table-width-s{
+  min-width: 80px;
+}
+
+.table-width-m{
+  min-width: 160px;
+}
+
+.table-width-l{
+  min-width: 240px;
+}
+
+.table-width-xl{
+  min-width: 320px;
+}
+
+.btn-alpha{
+  background-color: rgba(255,255,255,0.7)
+}
+
+.btn-alpha:hover{
+  background-color: rgba(255,255,255,0.8);
+  box-shadow: 1px 1px 12px 1px rgba(0,0,0,0.3);
+}
